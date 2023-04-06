@@ -1,4 +1,4 @@
-create_figure_1 <- function(){
+Create_figure_1 <- function(){
   
   df <- read.csv(curl("https://raw.githubusercontent.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/main/Data/placement_data_final.csv"))
   df$year <- factor(df$year)
