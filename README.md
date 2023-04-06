@@ -3,9 +3,9 @@ This is a repository of replication files for the upcoming paper, co-authored wi
 
 This paper is entirely reproducible - with simple R functions to eg. 'Create_table_1()' published in the repository which directly pull the data powering the paper - which is also published in this repository.
 
-An RMarkdown file is provided for the simplest way to reproduce the paper - simply knitting the file should be relatively straight forward on anyone's local machine.
+An RMarkdown file is provided for the simplest way to reproduce the paper, including text and references - simply knitting the file should be relatively straight forward on anyone's local machine.
 
-However you can produce all of the tables and figures in the paper by running this simple code in any of your own scripts and consoles! Magic!
+However you can also produce all of the tables and figures in the paper by running this simple code in any of your own scripts and consoles! Magic!
 
 
             `
@@ -21,3 +21,6 @@ However you can produce all of the tables and figures in the paper by running th
             Create_figure_3()
 
             `
+
+
+
