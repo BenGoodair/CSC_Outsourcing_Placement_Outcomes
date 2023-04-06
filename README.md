@@ -21,6 +21,8 @@ However you can also produce all of the tables and figures in the paper by runni
             Create_figure_3()
 
             `
+The purpose of producing this code is to be fully accountable and transparent about the underlying methods of the paper! And to maybe help others conduct similar analysis and produce their own animated graphs assessing the impact of social care privatisation...
+
 
 
 
