@@ -24,7 +24,7 @@ However you can also produce all of the tables and figures in the paper by runni
 The purpose of producing this code is to be fully accountable and transparent about the underlying methods of the paper! And to maybe help others conduct similar analysis and produce their own animated graphs assessing the impact of social care privatisation...
 
 <p align="center">
-  <img src="https://github.com/BenGoodair/CCG-Outsourcing/blob/main/Interactive%20Plots/NHS_creeping_gif.gif" alt="animated" />
+  <img src="https://github.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/blob/main/Animated_figure/plot_gif_placements_final.gif" alt="animated" />
 </p>
 
 
