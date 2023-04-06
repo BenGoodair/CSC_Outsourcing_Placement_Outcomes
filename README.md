@@ -5,16 +5,19 @@ This paper is entirely reproducible - with simple R functions to eg. 'create_tab
 
 An RMarkdown file is provided for the simplest way to reproduce the paper - simply knitting the file should be relatively straight forward on anyone's local machine.
 
-However something as simple as the code below will produce the table for you in any of your own scripts and consoles!
+However you can produce all of the tables and figures in the paper by running this simple code in any of your own scripts and consoles! Magic!
 
 
             `
-            Source(
-
-            load_packages
-
-            Source(
-
-            Createtable1(
+            source("https://raw.githubusercontent.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/main/Code/Placements_load_libraries.R")
+            Load_pacakages()
+            source("https://raw.githubusercontent.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/main/Code/Placements_figure_1.R")
+            Create_figure_1()
+            source("https://raw.githubusercontent.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/main/Code/Placements_table_1.R")
+            Create_table_1()
+            source("https://raw.githubusercontent.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/main/Code/Placements_figure_2.R")
+            Create_figure_2()
+            source("https://raw.githubusercontent.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/main/Code/Placements_figure_3.R")
+            Create_figure_3()
 
             `
