@@ -5,7 +5,7 @@ This paper is entirely reproducible - with simple R functions to eg. 'Create_tab
 
 An RMarkdown file is provided for the simplest way to reproduce the paper, including text and references - simply knitting the file should be relatively straight forward on anyone's local machine.
 
-However you can also produce all of the tables and figures in the paper by running this simple code in any of your own scripts and consoles! Magic!
+However you can also produce all of the tables and figures in the paper by running these 10 simple lines of code in any of your own scripts and consoles! Magic!
 
 
             `
@@ -27,4 +27,5 @@ The purpose of producing this code is to be fully accountable and transparent ab
   <img src="https://github.com/BenGoodair/CSC_Outsourcing_Placement_Outcomes/blob/main/Animated_figure/plot_gif_placements_final.gif" alt="animated" />
 </p>
 
+Please reach out to me at benjamin.goodair@spi.ox.ac.uk with any questions - I'd be over the moon to chat about the paper, or help with any reproducibility issues.
 
